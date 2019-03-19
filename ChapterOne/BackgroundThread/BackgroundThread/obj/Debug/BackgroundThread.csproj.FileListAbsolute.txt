@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\BackgroundThread\BackgroundThread\bin\Debug\BackgroundThread.exe.config
+C:\Code\70-483\ChapterOne\BackgroundThread\BackgroundThread\bin\Debug\BackgroundThread.exe
+C:\Code\70-483\ChapterOne\BackgroundThread\BackgroundThread\bin\Debug\BackgroundThread.pdb
+C:\Code\70-483\ChapterOne\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.exe
+C:\Code\70-483\ChapterOne\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.pdb
