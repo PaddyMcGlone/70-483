@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\SimpleMultiThread\SimpleMultiThread\bin\Debug\SimpleMultiThread.exe.config
+C:\Code\70-483\ChapterOne\SimpleMultiThread\SimpleMultiThread\bin\Debug\SimpleMultiThread.exe
+C:\Code\70-483\ChapterOne\SimpleMultiThread\SimpleMultiThread\bin\Debug\SimpleMultiThread.pdb
+C:\Code\70-483\ChapterOne\SimpleMultiThread\SimpleMultiThread\obj\Debug\SimpleMultiThread.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\SimpleMultiThread\SimpleMultiThread\obj\Debug\SimpleMultiThread.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\SimpleMultiThread\SimpleMultiThread\obj\Debug\SimpleMultiThread.exe
+C:\Code\70-483\ChapterOne\SimpleMultiThread\SimpleMultiThread\obj\Debug\SimpleMultiThread.pdb
