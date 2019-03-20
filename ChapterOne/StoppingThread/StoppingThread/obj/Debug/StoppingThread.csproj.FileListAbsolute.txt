@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\StoppingThread\StoppingThread\bin\Debug\StoppingThread.exe.config
+C:\Code\70-483\ChapterOne\StoppingThread\StoppingThread\bin\Debug\StoppingThread.exe
+C:\Code\70-483\ChapterOne\StoppingThread\StoppingThread\bin\Debug\StoppingThread.pdb
+C:\Code\70-483\ChapterOne\StoppingThread\StoppingThread\obj\Debug\StoppingThread.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\StoppingThread\StoppingThread\obj\Debug\StoppingThread.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\StoppingThread\StoppingThread\obj\Debug\StoppingThread.exe
+C:\Code\70-483\ChapterOne\StoppingThread\StoppingThread\obj\Debug\StoppingThread.pdb
