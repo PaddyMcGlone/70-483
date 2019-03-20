@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\ThreadPoolQueue\ThreadPoolQueue\bin\Debug\ThreadPoolQueue.exe.config
+C:\Code\70-483\ChapterOne\ThreadPoolQueue\ThreadPoolQueue\bin\Debug\ThreadPoolQueue.exe
+C:\Code\70-483\ChapterOne\ThreadPoolQueue\ThreadPoolQueue\bin\Debug\ThreadPoolQueue.pdb
+C:\Code\70-483\ChapterOne\ThreadPoolQueue\ThreadPoolQueue\obj\Debug\ThreadPoolQueue.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\ThreadPoolQueue\ThreadPoolQueue\obj\Debug\ThreadPoolQueue.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\ThreadPoolQueue\ThreadPoolQueue\obj\Debug\ThreadPoolQueue.exe
+C:\Code\70-483\ChapterOne\ThreadPoolQueue\ThreadPoolQueue\obj\Debug\ThreadPoolQueue.pdb
