@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\ParameterisedThreadStart.exe.config
+C:\Code\70-483\ChapterOne\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\ParameterisedThreadStart.exe
+C:\Code\70-483\ChapterOne\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\ParameterisedThreadStart.pdb
+C:\Code\70-483\ChapterOne\ParameterisedThreadStart\ParameterisedThreadStart\obj\Debug\ParameterisedThreadStart.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\ParameterisedThreadStart\ParameterisedThreadStart\obj\Debug\ParameterisedThreadStart.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\ParameterisedThreadStart\ParameterisedThreadStart\obj\Debug\ParameterisedThreadStart.exe
+C:\Code\70-483\ChapterOne\ParameterisedThreadStart\ParameterisedThreadStart\obj\Debug\ParameterisedThreadStart.pdb
