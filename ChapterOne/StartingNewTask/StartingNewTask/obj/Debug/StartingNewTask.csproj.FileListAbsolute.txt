@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\StartingNewTask\StartingNewTask\bin\Debug\StartingNewTask.exe.config
+C:\Code\70-483\ChapterOne\StartingNewTask\StartingNewTask\bin\Debug\StartingNewTask.exe
+C:\Code\70-483\ChapterOne\StartingNewTask\StartingNewTask\bin\Debug\StartingNewTask.pdb
+C:\Code\70-483\ChapterOne\StartingNewTask\StartingNewTask\obj\Debug\StartingNewTask.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\StartingNewTask\StartingNewTask\obj\Debug\StartingNewTask.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\StartingNewTask\StartingNewTask\obj\Debug\StartingNewTask.exe
+C:\Code\70-483\ChapterOne\StartingNewTask\StartingNewTask\obj\Debug\StartingNewTask.pdb

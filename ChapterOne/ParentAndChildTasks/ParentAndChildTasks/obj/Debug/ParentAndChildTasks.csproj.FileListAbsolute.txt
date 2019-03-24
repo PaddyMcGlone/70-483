@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\ParentAndChildTasks\ParentAndChildTasks\bin\Debug\ParentAndChildTasks.exe.config
+C:\Code\70-483\ChapterOne\ParentAndChildTasks\ParentAndChildTasks\bin\Debug\ParentAndChildTasks.exe
+C:\Code\70-483\ChapterOne\ParentAndChildTasks\ParentAndChildTasks\bin\Debug\ParentAndChildTasks.pdb
+C:\Code\70-483\ChapterOne\ParentAndChildTasks\ParentAndChildTasks\obj\Debug\ParentAndChildTasks.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\ParentAndChildTasks\ParentAndChildTasks\obj\Debug\ParentAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\ParentAndChildTasks\ParentAndChildTasks\obj\Debug\ParentAndChildTasks.exe
+C:\Code\70-483\ChapterOne\ParentAndChildTasks\ParentAndChildTasks\obj\Debug\ParentAndChildTasks.pdb
