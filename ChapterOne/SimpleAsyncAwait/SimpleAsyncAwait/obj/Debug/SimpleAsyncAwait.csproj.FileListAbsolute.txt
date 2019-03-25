@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\SimpleAsyncAwait\SimpleAsyncAwait\obj\Debug\SimpleAsyncAwait.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\SimpleAsyncAwait\SimpleAsyncAwait\obj\Debug\SimpleAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\SimpleAsyncAwait\SimpleAsyncAwait\bin\Debug\SimpleAsyncAwait.exe.config
+C:\Code\70-483\ChapterOne\SimpleAsyncAwait\SimpleAsyncAwait\bin\Debug\SimpleAsyncAwait.exe
+C:\Code\70-483\ChapterOne\SimpleAsyncAwait\SimpleAsyncAwait\bin\Debug\SimpleAsyncAwait.pdb
+C:\Code\70-483\ChapterOne\SimpleAsyncAwait\SimpleAsyncAwait\obj\Debug\SimpleAsyncAwait.exe
+C:\Code\70-483\ChapterOne\SimpleAsyncAwait\SimpleAsyncAwait\obj\Debug\SimpleAsyncAwait.pdb
