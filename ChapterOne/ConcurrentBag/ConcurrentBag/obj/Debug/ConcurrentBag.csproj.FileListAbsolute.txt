@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\ConcurrentBag\ConcurrentBag\bin\Debug\ConcurrentBag.exe.config
+C:\Code\70-483\ChapterOne\ConcurrentBag\ConcurrentBag\bin\Debug\ConcurrentBag.exe
+C:\Code\70-483\ChapterOne\ConcurrentBag\ConcurrentBag\bin\Debug\ConcurrentBag.pdb
+C:\Code\70-483\ChapterOne\ConcurrentBag\ConcurrentBag\obj\Debug\ConcurrentBag.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\ConcurrentBag\ConcurrentBag\obj\Debug\ConcurrentBag.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\ConcurrentBag\ConcurrentBag\obj\Debug\ConcurrentBag.exe
+C:\Code\70-483\ChapterOne\ConcurrentBag\ConcurrentBag\obj\Debug\ConcurrentBag.pdb
