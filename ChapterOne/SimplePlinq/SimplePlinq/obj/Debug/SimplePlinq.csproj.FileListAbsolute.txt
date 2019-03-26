@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\SimplePlinq\SimplePlinq\bin\Debug\SimplePlinq.exe.config
+C:\Code\70-483\ChapterOne\SimplePlinq\SimplePlinq\bin\Debug\SimplePlinq.exe
+C:\Code\70-483\ChapterOne\SimplePlinq\SimplePlinq\bin\Debug\SimplePlinq.pdb
+C:\Code\70-483\ChapterOne\SimplePlinq\SimplePlinq\obj\Debug\SimplePlinq.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\SimplePlinq\SimplePlinq\obj\Debug\SimplePlinq.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\SimplePlinq\SimplePlinq\obj\Debug\SimplePlinq.exe
+C:\Code\70-483\ChapterOne\SimplePlinq\SimplePlinq\obj\Debug\SimplePlinq.pdb
