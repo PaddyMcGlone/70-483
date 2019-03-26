@@ -1,0 +1,7 @@
+C:\Code\70-483\ChapterOne\AggregateExceptions\AggregateExceptions\bin\Debug\AggregateExceptions.exe.config
+C:\Code\70-483\ChapterOne\AggregateExceptions\AggregateExceptions\bin\Debug\AggregateExceptions.exe
+C:\Code\70-483\ChapterOne\AggregateExceptions\AggregateExceptions\bin\Debug\AggregateExceptions.pdb
+C:\Code\70-483\ChapterOne\AggregateExceptions\AggregateExceptions\obj\Debug\AggregateExceptions.csprojAssemblyReference.cache
+C:\Code\70-483\ChapterOne\AggregateExceptions\AggregateExceptions\obj\Debug\AggregateExceptions.csproj.CoreCompileInputs.cache
+C:\Code\70-483\ChapterOne\AggregateExceptions\AggregateExceptions\obj\Debug\AggregateExceptions.exe
+C:\Code\70-483\ChapterOne\AggregateExceptions\AggregateExceptions\obj\Debug\AggregateExceptions.pdb
